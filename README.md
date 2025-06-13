@@ -68,17 +68,17 @@ Install dependencies:
 ```npm install```
 
 Create .env file:
-PORT=4000
-MONGO_URI=mongodb://localhost:27017/taskMngmt
-JWT_SECRET=your_jwt_secret_key
+-PORT=4000
+-MONGO_URI=mongodb://localhost:27017/taskMngmt
+-JWT_SECRET=your_jwt_secret_key
 
-Start backend server:
-npm run dev 
+##Start backend server:
+```npm run dev ```
 
 
 ### 🔧 Frontend
 Go to frontend folder:
-cd react_Assignment 
+```cd react_Assignment ```
 
 Start React app:
-npm run dev
+```npm run dev```
