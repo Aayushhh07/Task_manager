@@ -82,3 +82,8 @@ Go to frontend folder:
 
 Start React app:
 ```npm run dev```
+
+
+##Screenshots
+
+
